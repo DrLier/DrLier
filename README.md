@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ My name Is Reyhan Nathaniel Adhiwijaya, I’m currently Information Technology student in Telkom Institute of Technology Surabaya, Im still on ground of progress to reach the top And I will do all my best to learn and practice all i can get from anywhere
 <!--
 **DrLier/DrLier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
