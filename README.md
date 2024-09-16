@@ -39,8 +39,8 @@ I am a recent graduate in Information Technology from Telkom University with a s
 
 ## 📚 Blog & Publications
 
-- [**Jurnal Sains Komputer**: Fertigation Recommendation System Based on IoT and Random Forest](#)
-- [**Thesis**: Fertigation Recommendation System Based on Internet of Things with Random Forest Method](#)
+- [**Sistem Rekomendasi Fertigasi Berbasis Internet of Things dengan Metode Random Forest**](https://openlibrary.telkomuniversity.ac.id/pustaka/213500/sistem-rekomendasi-fertigasi-berbasis-internet-of-things-dengan-metode-random-forest-dalam-bentuk-buku-karya-ilmiah.html): A scholarly book publication detailing the fertigation recommendation system based on IoT and Random Forest.
+
 
 ## 🌱 Skills
 
